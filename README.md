@@ -1,6 +1,6 @@
 
 
-### Recursive Star Pattern with Turtle Graphics
+## Recursive Star Pattern with Turtle Graphics
 
 This project demonstrates how to use the Python `turtle` graphics library to draw a recursive star pattern. The pattern is drawn using a series of smaller stars within a larger star, creating a fractal-like design.
 
